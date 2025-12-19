@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧑‍🤝‍🧑 Crowd Sourcing (Decentralized Crowdfunding)
 
 A **decentralized crowd sourcing (crowdfunding) smart contract** built using **Solidity** and **Foundry**. This project allows users to contribute ETH while enforcing a **minimum USD value** using **Chainlink price feeds**, and enables the owner to securely withdraw the funds.
@@ -129,7 +128,3 @@ Built by **Bhavya** **Jain** as part of a focused journey toward becoming a **r
 ## 📄 License
 
 MIT License
-=======
-# Crowd-Funding-Application---V1
-A decentralized crowd sourcing (crowdfunding) smart contract built using Solidity and Foundry. This project allows users to contribute ETH while enforcing a minimum USD value using Chainlink price feeds, and enables the owner to securely withdraw the funds.
->>>>>>> 3267e45cfbbddf6e29176902f2bf402d6bbe7b33
