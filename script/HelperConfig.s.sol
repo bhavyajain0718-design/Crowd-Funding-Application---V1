@@ -15,11 +15,11 @@ contract HelperConfig is Script {
     constructor() {
         if (block.chainid == 11155111) {
             activePriceFeed = SepoliaEthConfig();
-        }else if (block.chainid == 1) {
+        } else if (block.chainid == 1) {
             activePriceFeed = EthMainnetConfig();
-        }else if (block.chainid == 42161) {
+        } else if (block.chainid == 42161) {
             activePriceFeed = ArbMainnetConfig();
-        }else {
+        } else {
             activePriceFeed = AnvilEthConfig();
         }
     }
